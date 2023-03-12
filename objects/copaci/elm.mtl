@@ -1,0 +1,56 @@
+# Blender 3.4.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl vray_AmericanElmBark_Mat
+Ns 17.857098
+Ka 1.000000 1.000000 1.000000
+Ks 0.046100 0.046100 0.046100
+Ke 0.000000 0.000000 0.000000
+Ni 1.520000
+illum 2
+map_Kd AmericanElmBark.jpg
+
+newmtl vray_AmericanElmBark_Mat.001
+Ns 17.857098
+Ka 1.000000 1.000000 1.000000
+Ks 0.046100 0.046100 0.046100
+Ke 0.000000 0.000000 0.000000
+Ni 1.520000
+illum 2
+map_Kd AmericanElmBark.jpg
+
+newmtl vray_AmericanElmBark_Mat.002
+Ns 17.857098
+Ka 1.000000 1.000000 1.000000
+Ks 0.046100 0.046100 0.046100
+Ke 0.000000 0.000000 0.000000
+Ni 1.520000
+illum 2
+map_Kd AmericanElmBark.jpg
+
+newmtl vray_AmericanElmLeaf_Mat
+Ns 23.414108
+Ka 1.000000 1.000000 1.000000
+Ks 0.041600 0.041600 0.041600
+Ke 0.000000 0.000000 0.000000
+Ni 1.520000
+illum 2
+map_Kd AmericanElmLeaf.jpg
+
+newmtl vray_AmericanElmLeaf_Mat.001
+Ns 23.414108
+Ka 1.000000 1.000000 1.000000
+Ks 0.041600 0.041600 0.041600
+Ke 0.000000 0.000000 0.000000
+Ni 1.520000
+illum 2
+map_Kd AmericanElmLeaf.jpg
+
+newmtl vray_AmericanElmLeaf_Mat.002
+Ns 23.414108
+Ka 1.000000 1.000000 1.000000
+Ks 0.041600 0.041600 0.041600
+Ke 0.000000 0.000000 0.000000
+Ni 1.520000
+illum 2
+map_Kd AmericanElmLeaf.jpg
