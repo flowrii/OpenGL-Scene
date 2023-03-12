@@ -1,0 +1,129 @@
+# Blender 3.4.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl Buster.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Buster_Col_1.jpg
+map_Ks textures/Buster_Col_1.jpg
+map_refl textures/DH_Ref_3.jpg
+map_Bump textures/Buster_Nor_2.jpg
+
+newmtl Hover_1.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Hover_Col.jpg
+map_Ks textures/Shuttle_Hover_Col.jpg
+map_Bump textures/Shuttle_Hover_Nor_2.jpg
+
+newmtl Material.014
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Inside_Col.jpg
+map_Ks textures/Shuttle_Inside_Col.jpg
+map_Bump textures/Shuttle_Inside_Nor.jpg
+
+newmtl Material.020
+Ns 58.823509
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Site_Col.jpg
+map_Ks textures/Shuttle_Site_Col.jpg
+map_Bump textures/Shuttle_Site_Nor.jpg
+
+newmtl Material.023
+Ns 56.862747
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Outside_Col.jpg
+map_Ks textures/Shuttle_Outside_Col.jpg
+map_refl textures/DH_Ref_3.jpg
+map_Bump textures/Shuttle_Outside_Nor_2.jpg
+
+newmtl Material.026
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Wire_Col.jpg
+map_Ks textures/Shuttle_Wire_Col.jpg
+map_refl textures/DH_Ref_3.jpg
+map_Bump textures/Shuttle_Wire_Nor.jpg
+
+newmtl Material.042
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Inside_Col.jpg
+map_Ks textures/Shuttle_Inside_Col.jpg
+map_Bump textures/Shuttle_Inside_Nor.jpg
+
+newmtl Shuttel_Inside.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Inside_Col.jpg
+map_Ks textures/Shuttle_Inside_Col.jpg
+map_Bump textures/Shuttle_Inside_Nor.jpg
+
+newmtl Shuttel_Legs.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Legs_Col.jpg
+map_Ks textures/Shuttle_Legs_Col.jpg
+map_refl textures/DH_Ref_3.jpg
+map_Bump textures/Shuttle_Legs_Nor.jpg
+
+newmtl Shuttel_Legs.001_NONE
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Legs_Col.jpg
+map_Ks textures/Shuttle_Legs_Col.jpg
+map_refl textures/DH_Ref_3.jpg
+map_Bump textures/Shuttle_Legs_Nor.jpg
+
+newmtl Shuttle_Rest.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Shuttle_Rest_Col.jpg
+map_Ks textures/Shuttle_Rest_Col.jpg
+map_refl textures/DH_Ref_3.jpg
+map_Bump textures/Shuttle_Rest_Nor.jpg

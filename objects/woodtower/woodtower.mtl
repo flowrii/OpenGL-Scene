@@ -1,0 +1,13 @@
+# Blender 3.4.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl watchtower
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Wood_Tower_Col.jpg
+map_Bump D:/An3/Sem1/PG/watchtower/obj/textures/Wood_Tower_Nor.jpg

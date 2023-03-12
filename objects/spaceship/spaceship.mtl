@@ -1,0 +1,21 @@
+# Blender 3.4.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.375745
+illum 9
+map_Kd E-45_glass_nor_.jpg
+
+newmtl ship
+Ns 17.647060
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E-45 _col.jpg
